@@ -5,23 +5,30 @@ Desenvolvo projetos de tecnologia com foco em análise de dados, programação e
 ## 💻 Tecnologias e ferramentas
 
 <div>
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Power BI" height="40" width="50" src="https://cdn.simpleicons.org/powerbi/F2C811">
+  <img align="center" alt="Python" height="40" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+
+  <img align="center" alt="Power BI" height="40" width="50"
+       src="https://img.icons8.com/color/48/power-bi.png">
+
+  <img align="center" alt="Excel" height="40" width="50"
+       src="https://img.icons8.com/color/48/microsoft-excel-2019.png">
 </div>
 
 <br>
 
-## 📊 GitHub
+**Linguagens e conhecimentos:** Python • SQL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreziin1&show_icons=true&theme=transparent&hide_border=true)
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreziin1&layout=compact&hide_border=true)
 
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/andré-luiz-b4b6a2219">
-  <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:andrelu.f1452@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Email-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
