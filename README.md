@@ -1,6 +1,9 @@
 ### Olá! Eu sou o André 👋
 
-Desenvolvo projetos de tecnologia com foco em análise de dados, programação e resolução de problemas.
+Desenvolvo projetos nas áreas de dados e programação, explorando diferentes tecnologias e soluções. Busco aplicar esses conhecimentos na prática, criando projetos que envolvem análise, organização e transformação de dados.
+
+**Tecnologias e ferramentas**
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
