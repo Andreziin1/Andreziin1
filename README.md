@@ -23,6 +23,6 @@ Desenvolvo projetos nas áreas de dados e programação, explorando diferentes t
 </div>
 
 
-**Linguagens mais utilizadas**
+### 📊 Linguagens mais utilizadas
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreziin1&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreziin1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Distribui%C3%A7%C3%A3o%20por%20linguagem" />
