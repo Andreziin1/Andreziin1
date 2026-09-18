@@ -1,9 +1,10 @@
-#### Olá! Eu sou o André 👋
+### Olá! Eu sou o André 👋
 
 Desenvolvo projetos voltados à análise de dados e programação, explorando diferentes tecnologias para transformar dados em informações úteis e soluções práticas.
 
 Busco aprimorar continuamente minhas habilidades por meio de novos projetos, aplicando meus conhecimentos na prática e explorando diferentes ferramentas, tecnologias e possibilidades dentro da área.
-# **Tecnologias e Ferramentas**
+
+## Tecnologias e Ferramentas
 
 <div>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -12,16 +13,14 @@ Busco aprimorar continuamente minhas habilidades por meio de novos projetos, apl
   <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-##
 
-#**Entre em contato**
+## Entre em Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/andré-luiz-b4b6a2219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/andré-luiz-b4b6a2219">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:andrelu.f1452@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrelu.f1452@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
