@@ -4,11 +4,11 @@ Desenvolvo projetos nas áreas de dados e programação, explorando diferentes t
 
 **Tecnologias e ferramentas**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Andre-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Andre-Excel" height="30" width="40" src="https://img.icons8.com/color/48/microsoft-excel-2019.png">
-  <img align="center" alt="Andre-PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/power-bi.png">
+<div>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </div>
 
 ##
@@ -23,6 +23,3 @@ Desenvolvo projetos nas áreas de dados e programação, explorando diferentes t
 </div>
 
 
-### 📊 Linguagens mais utilizadas
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreziin1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Distribui%C3%A7%C3%A3o%20por%20linguagem" />
