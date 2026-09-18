@@ -4,7 +4,6 @@ Desenvolvo projetos nas áreas de dados e programação, explorando diferentes t
 
 **Tecnologias e ferramentas**
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andre-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
@@ -22,3 +21,8 @@ Desenvolvo projetos nas áreas de dados e programação, explorando diferentes t
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+
+**Linguagens mais utilizadas**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andreziin1&theme=transparent" />
