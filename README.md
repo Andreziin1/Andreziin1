@@ -25,4 +25,4 @@ Desenvolvo projetos nas áreas de dados e programação, explorando diferentes t
 
 **Linguagens mais utilizadas**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andreziin1&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreziin1&theme=tokyonight" />
