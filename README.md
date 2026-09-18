@@ -1,4 +1,4 @@
-### Olá! Eu sou o André 👋
+## Olá! Eu sou o André 👋
 
 Desenvolvo projetos voltados à análise de dados e programação, explorando diferentes tecnologias para transformar dados em informações úteis e soluções práticas.
 
